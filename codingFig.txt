@@ -1,0 +1,21 @@
+
+ways that i try  to display buttons 
+//  btn.style.display = 'none';
+// clicked.push(option)
+// btn.disabled=clicked.includes(option)
+
+//let clicked=[]
+// if (index == 1) {
+//     event.target.nextElementSibling.disabled = true
+//   } else {
+//     event.target.previousElementSibling.disabled = true
+//   }
+//   score.textContent = myScore
+//   event.target.disabled = true
+
+
+want to show result in console 
+// for (let i = 0; i < questions.length; i++) {
+//  const correctAnswer = questions[i].option[questions[i].answer];
+//   console.log(`Question ${i+1}: ${correctAnswer}`);
+// }
